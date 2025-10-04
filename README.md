@@ -27,4 +27,4 @@ Other stuff that's not explained in the tutorials will be added here. (Help the 
 4. From there click on Explorer. (If you don't see Explorer, then your problem stems further than registry keys)
 5. Inside "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" there shouldn't be any Keys.
 6. The only thing that should be in this directory is a SZ file with the name "(Default)".
-7. If you have any other key in that directory, and can't open Task Manager. Delete the key with the very obvious name. (You'll know which one)
+7. If you have any other key in that directory, and can't open Control Panel. Delete the key with the very obvious name. (You'll know which one)
